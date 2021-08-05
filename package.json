@@ -1,0 +1,13 @@
+{
+  "name": "Teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc --noEmit src/js/*",
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
